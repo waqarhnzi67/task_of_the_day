@@ -1,0 +1,6 @@
+.display-container {
+    height: 91vh;
+    background: url('../../../assets/bg.gif');
+    background-size:auto;
+    /* background-repeat: no-repeat; */
+}
